@@ -1,0 +1,21 @@
+[
+    {
+        "username": "MASHAL SAIDY",
+        "password": "30811641",
+        "ceuNumber": "ITA/IRN/2025/761319690",
+        "redirectURL": "dashboard.html"
+    },
+    {
+        "username": "testuser",
+        "password": "test",
+        "ceuNumber": "DEMO-0002",
+        "redirectURL": "dashboard.html"
+    },
+    {
+        "username": "erroruser",
+        "password": "error",
+        "ceuNumber": "ERROR-0005",
+        "errorMessage": "YOUR APPLICATION IS CURRENTLY BEING UPDATED IN THE VISAMETRIC SYSTEM IN TEHRAN, IRAN. PLEASE TRY AGAIN AFTER 24 HOURS",
+        "redirectURL": "error"
+    }
+]
